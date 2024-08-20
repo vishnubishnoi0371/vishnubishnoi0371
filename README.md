@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @vishnubishnoi0371
-- 🌱 I’m currently learning Node.js, Angular.js
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m vishnubishnoi
+- 🌱 I’m currently learning Nuxt.js , Vue.js
